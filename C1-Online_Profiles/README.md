@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Andy Tenholder LinkedIn](https://www.linkedin.com/in/andytenholder/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Andy Tenholder Resume](https://github.com/AndyTenholder/liftoff-assignments/blob/master/C1-Online_Profiles/Andrew%20Tenholder%20Resume%201-2018.pdf)
